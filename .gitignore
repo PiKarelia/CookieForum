@@ -1,8 +1,8 @@
 
-*.vs/*
+**.vs/*
 
-*/bin/*
+**/bin/*
 
-*/obj/*
+**/obj/*
 
-*.user
+**.user
